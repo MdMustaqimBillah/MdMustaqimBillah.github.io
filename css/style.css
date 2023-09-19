@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto Condensed';
+}
+.dropdown-item{
+    margin: auto;
+}
+p{
+    text-align: justify;
+}
+#exceptional{
+    text-align: center;
+}
+#exceptional1{
+    text-align: center;
+}
+#exceptionalimage{
+    height: 340px;
+    weight: 340px;
+}
+
+.courses-container{
+
+    background-color: burlywood;
+}
+.heading{
+
+    text-align: center;
+    padding-top: 8px;
+
+}
+
+.circle{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.course-row{
+ margin-bottom: 20px;
+}
+.card{
+
+    text-align: justify;
+}
+
